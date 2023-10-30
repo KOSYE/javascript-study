@@ -1,4 +1,4 @@
-var a = 3 // 변수
+var a = 2 // 변수
 let b = 'fuck'
 const c = 4
 console.log("hello world!")
