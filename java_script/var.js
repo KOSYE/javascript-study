@@ -33,6 +33,30 @@
 
 
 //Bollean
-const a = true //참
-const b = false //거짓
-console.log(b)
+// const a = true //참
+// const b = false //거짓
+// console.log(b)
+
+// const name = "KOSYE"
+// const age = 21
+
+// console.log(name == 'KIMHWAN')
+// console.log(age > 20)
+// console.log(name)
+
+// null(존재하지 않은 값) 과 undefined (값이 할당되지 않음)
+// let age
+// console.log(age)
+// let user = null
+// console.log(user)
+
+
+
+// typeof 연산자 변수의 자료용어를 알아낼수 있음
+// console.log(typeof 3)
+// console.log(typeof a)
+// console.log(typeof true)
+// console.log(typeof "xxx")
+// console.log(typeof null)
+// console.log(typeof undefined)
+
